@@ -1,6 +1,6 @@
 # 3D принтер GBot Litchi
 
-
+<iframe src="https://discord.com/widget?id=877551542272684082&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 **⚠ Данный принтер находится в разработке. Детали могут изменится в любой момент. Скачивая и изготовливая их сейчас, вы делаете это на свой страх и риск. Промежуточный дизайн опубликован по многочисленным просьбам и для людей, которые не против принять участие в β-тесте.**
 
